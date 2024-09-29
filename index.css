@@ -1,3 +1,11 @@
 body {
     background-image: url('https://wallpapercave.com/wp/rXfXget.jpg');
+    background-blend-mode: luminosity;
+}
+
+h1,
+p {
+   font-family: Helvetica;
+   font-color: white;
+   text-align: center; 
 }

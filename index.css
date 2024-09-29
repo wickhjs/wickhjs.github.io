@@ -3,7 +3,12 @@ body {
     background-blend-mode: luminosity;
 }
 
-h1,
+h1 {
+   font-family: Helvetica;
+   font-color: white;
+   text-align: center; 
+}
+
 p {
    font-family: Helvetica;
    font-color: white;

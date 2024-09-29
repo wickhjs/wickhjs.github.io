@@ -15,7 +15,8 @@ p {
    text-align: center; 
 }
 
-iframe {
-    max-width: 100%;
-    max-height: 100%;
+#ferdinand {
+    display: grid;
+    place-items: center;
+    height: 100vh;
 }
